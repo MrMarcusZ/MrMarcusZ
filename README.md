@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrMarcusZ
 - 👀 I’m interested in ... Anything honestly, being new I am open to learning a lot ;-) 
-- 🌱 I’m currently learning ... Python and JavaScript/Node.JS, I just spent 2020/2021 on Java
-- 💞️ I’m looking to collaborate on ... right now I don't know, but I hope to know soon. 
+- 🌱 I’m currently learning ... Java, JavaScript/Node.JS, linux
+- 💞️ I’m looking to collaborate on ... I am open to a veriety of projects at this stage. 
 - 📫 How to reach me ... marcusdevelopmentz@gmail.com 
 
 <!---
